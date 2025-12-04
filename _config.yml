@@ -34,7 +34,7 @@ author: June L Mazer
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: mazersample
+metadata: https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1Tmc0VmwPFFcUkBNeQppixot-YpOguZqwwdwv4uHPLjB68pkBrJveL1rkr8XsGrkk4VFJJJYJAVCb/pub?output=csv
 
 ##########
 # Site/Organization Branding 
